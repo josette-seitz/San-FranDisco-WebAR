@@ -6,5 +6,5 @@ Purchase Hat Here and Clone Repo to feel the Disco Fever!
 </br>
 https://mikehamptonart.com/products/san-frandisco-dad-hat
 
-Click here to see the demo here:
+Click here to see the demo:
 https://youtu.be/51hhC6g_5KI
