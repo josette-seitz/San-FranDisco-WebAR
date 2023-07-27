@@ -16,4 +16,4 @@ Options:
 </br>
 <i>You can also grab the Image Detection file from StreamingAssets folder and print out to use before scanning QR code</i> :)
 
-![San_FranDisco](https://github.com/josette-seitz/San-FranDisco-WebAR/assets/7431704/b78152fe-413f-420e-9acc-1a87118e4ed7)
+![San_FranDisco](https://github.com/josette-seitz/San-FranDisco-WebAR/assets/7431704/b78152fe-413f-420e-9acc-1a87118e4ed7 | width=100)
