@@ -12,7 +12,7 @@ https://mikehamptonart.com/products/san-frandisco-dad-hat
 Options:
 1. Clone Repo and view in Unity Editor
 </br><i>OR</i>
-2. Scan QR Code to view in Web Browser
+2. Scan QR Code to view in Web Browser and Grant Access to camera
 </br>
 
 ![San_FranDisco](https://github.com/josette-seitz/San-FranDisco-WebAR/assets/7431704/b78152fe-413f-420e-9acc-1a87118e4ed7)
