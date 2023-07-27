@@ -5,7 +5,7 @@ Used Zappar AR (WebAR) Unity SDK to make a Disco Hat come to life.
 Click here to see the demo:
 https://youtu.be/51hhC6g_5KI
 
-Purchase Hat here and Clone Repo to feel the Disco Fever!
+Purchase Hat here and Clone Repository to feel the Disco Fever!
 </br>
 https://mikehamptonart.com/products/san-frandisco-dad-hat
 
