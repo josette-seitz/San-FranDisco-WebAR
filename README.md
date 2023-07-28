@@ -3,7 +3,7 @@ Used Zappar AR (WebAR) Unity SDK to make a Disco Hat come to life.
 <br> https://www.zappar.com/ </br>
 
 Click here to see the demo:
-https://youtu.be/51hhC6g_5KI
+[https://youtu.be/51hhC6g_5KI](https://youtube.com/shorts/dXEN5e2pWQI)
 
 Purchase Hat here and Clone Repository to feel the Disco Fever!
 </br>
